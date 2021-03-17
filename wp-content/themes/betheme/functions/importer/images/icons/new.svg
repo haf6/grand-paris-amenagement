@@ -1,0 +1,16 @@
+<svg id="new" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0089f7;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-1" cx="13" cy="13" r="13"/>
+  <path id="NEW-2" data-name="NEW" class="cls-2" d="M7.739,10v3.636L5.03,10H3.987v5.988H5.233V12.35l2.717,3.636H8.985V10H7.739Zm3.425,4.876V13.488h2.53V12.41h-2.53v-1.3h2.864V10H9.911v5.988H14.13V14.873H11.164ZM21.782,10L20.513,14.24,19.268,10H18.1l-1.284,4.209L15.586,10H14.278l1.79,5.988h1.347l1.238-4.055,1.2,4.055h1.354L22.988,10H21.782Z"/>
+</svg>
